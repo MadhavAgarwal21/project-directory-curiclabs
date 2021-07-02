@@ -9,8 +9,8 @@ import './App.css';
 
 //PAGES
 import About from './constants/About';
-import View from './constants/view';
-import Home from './constants/home';
+import View from './components/view';
+import Home from './components/home';
 
 function App() {
 
